@@ -4,7 +4,7 @@ package com.maaven.practice;
  * Hello world!
  *
  */
-public class App 
+pubsssslic class App 
 {
     public static void main( String[] args )
     public static void main( String[] args )
